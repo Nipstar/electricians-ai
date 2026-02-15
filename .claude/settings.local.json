@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(if [ -d .git ])",
+      "Bash(then echo \"Git repo exists\")",
+      "Bash(else echo \"No git repo - initializing...\")",
+      "Bash(git init:*)",
+      "Bash(fi)"
+    ]
+  }
+}
