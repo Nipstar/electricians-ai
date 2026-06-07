@@ -1,0 +1,85 @@
+# Antek Automation — AI for Electricians
+> AI voice agent + AI receptionist for UK electricians. 24/7 call answering, job booking, lead qualification, emergency callout routing. Trades vertical spoke off the Antek receptionist hub. Built on Retell AI by Certified Partner Antek Automation.
+
+## About Antek Automation
+- Trading name: Antek Automation (sole trader)
+- Founded by: Andy Norman (30+ years in UK field service and managed print)
+- Headquarters: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- Phone: 0333 038 9960
+- Email: hello@antekautomation.com
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+- Brand hub: https://www.antekautomation.com
+- This site: https://aiforelectricians.co.uk (electrical-trade vertical spoke)
+- National receptionist hub: https://aivoiceagentreceptionist.co.uk
+- Sister vertical site: https://aireceptionistforlawfirms.co.uk
+
+## What This Site Covers
+- AI voice agent / 24/7 electrician answering service — answers calls in the firm's name, books jobs, qualifies enquiries, routes emergency callouts
+- AI chatbot for electricians — website + WhatsApp + Facebook enquiry capture
+- Workflow automation — quote follow-ups, booking confirmations, reminders, reviews
+- Audience: sole-trader sparkies, domestic electricians, commercial electrical contractors, emergency electricians, EV charger installers, testing & inspection specialists, solar PV installers, multi-van electrical firms
+- Service area: United Kingdom
+
+## Key Facts
+- 24/7 cover including evenings, weekends, bank holidays and overnight
+- Emergency-callout triage: sparking, burning smells, power outage, exposed wiring flagged urgent and text/call escalation
+- Books jobs into Google Calendar, Outlook, Calendly, Jobber, ServiceM8, Tradify and most UK booking + job-management tools
+- Live demo: +44 7782 214455 (Bolt Electrical — NICEIC-approved Hampshire electrician running the same AI stack)
+- Built on Retell AI by Certified Partner Antek Automation
+- No long-term contracts
+
+## Contact
+- This site: https://aiforelectricians.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aiforelectricians.co.uk
+- Book a free discovery call: see /#contact on this site
+
+## Full Context (extended)
+
+### Parent Organisation
+AI for Electricians is part of the **Antek Automation** network — a UK AI automation agency.
+
+- Brand hub: https://www.antekautomation.com
+- Founder: Andy Norman (30+ years in UK field service and managed print)
+- HQ: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+
+### Service Coverage — UK-wide
+We deliver AI voice agents + chatbots + workflow automation to UK electricians and electrical contractors nationally. Discovery calls are free and run for 30 minutes. Most deployments go live within 2-3 weeks.
+
+### Electrical Services the AI Knows
+Domestic rewires, consumer-unit upgrades, EICRs and fixed-wire testing, PAT testing, EV charger installations, fire alarm systems, commercial installations, fault-finding, emergency callouts, solar PV.
+
+### Emergency Triage
+The AI flags urgent calls (sparking, burning smells, power outage, exposed wiring) and follows the escalation rules you set — text or call you, or attempt live transfer.
+
+### Integrations
+- Calendars: Google Calendar, Outlook, Calendly
+- Job management: Jobber, ServiceM8, Tradify (others via webhook/email/CSV)
+- Notifications: text + email instant summaries after every call
+
+### Live Demo
+- Phone: +44 7782 214455 — Bolt Electrical (NICEIC-approved Hampshire electrician, real production deployment)
+- Available 24/7
+- Powered by Retell AI
+
+### Why Electricians Choose Us
+- Built for the electrical trade — trained on rewires, EICRs, EV chargers, consumer units, emergency callouts
+- Backed by Antek Automation — founded by Andy Norman, 30+ years in UK field service
+- Certified Retell AI Partner — enterprise-grade voice technology at small-business prices
+- Real proof — live deployment at Bolt Electrical
+
+### Network Sister Sites
+- Antek brand hub: https://www.antekautomation.com
+- National receptionist hub: https://aivoiceagentreceptionist.co.uk
+- AI Receptionist for Law Firms: https://aireceptionistforlawfirms.co.uk
+
+### Contact
+- Site: https://aiforelectricians.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aiforelectricians.co.uk
+- Book a free discovery call: see /#contact on this site
