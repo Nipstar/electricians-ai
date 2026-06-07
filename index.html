@@ -1562,7 +1562,32 @@
       .founder__inner { flex-direction: column; text-align: center; padding: 24px; }
       .founder__photo { width: 160px; height: 160px; }
     }
+
+    /* Retell widget v2 — force bottom-right (its inline style otherwise wins) */
+    #retell-widget-root {
+      right: 24px !important;
+      left: auto !important;
+      bottom: 24px !important;
+    }
   </style>
+
+  <!-- Retell Chat Widget -->
+  <script
+      id="retell-widget"
+      src="https://dashboard.retellai.com/retell-widget-v2.js"
+      type="module"
+      data-public-key="public_key_b96440ad931cbd5326e4d"
+      data-agent-id="agent_1c30d12544e2aedfc07ac8be1c"
+      data-title="Antek AI Assistant"
+      data-bot-name="Antek AI"
+      data-fab-text="Ask Antek AI"
+      data-color="#10b981"
+      data-popup-message="Hi! Quick question about AI for your electrical business?"
+      data-show-ai-popup="true"
+      data-show-ai-popup-time="6"
+      data-auto-open="false"
+      data-dynamic='{"site": "electricians", "domain": "aiforelectricians.co.uk"}'
+  ></script>
 </head>
 
 <body>
